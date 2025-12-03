@@ -1,1 +1,1 @@
-# threat-hunting-scenario-tor--browser
+# threat-hunting-scenario-tor-browser
